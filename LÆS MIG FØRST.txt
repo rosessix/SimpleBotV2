@@ -1,0 +1,17 @@
+KÆMPE CREDIT TIL LEGACY FOR BASEN! <3
+
+Credits til Kasper Rasmussen for at udgive sit FiveM-activity system som viser hvor mange gamers der på en server.
+
+Det er vigtigt at du kører filen kør.bat før du forsøger at bruge den.
+
+Hvis KØR MIG.bat ikke virker skal du blot åbne en cmd, eller en terminal og skrive
+
+npm install fivereborn-query
+
+npm install fs
+
+npm install moment
+
+npm install mysql
+
+npm install
