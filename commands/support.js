@@ -4,9 +4,9 @@ const bot = new Discord.Client();
 module.exports.run = async (bot, message, args) => {
     //HER SKAL DIN KOMMANDO VÆRE
 
-    let supportChannelId = message.guild.channels.find(`name`, "support");
-    let toSupportChannel = message.guild.channels.find(`name`, "test");
-    let supportRole = message.guild.roles.find(`name`, "neger");
+    let supportChannelId = message.guild.channels.find(`name`, "navnetpåselvesupportkanalen");
+    let toSupportChannel = message.guild.channels.find(`name`, "navnetpådinstaffssupport");
+    let supportRole = message.guild.roles.find(`name`, "supporterrang");
     let date_ob = new Date();
     let hours = date_ob.getHours();
     let minutes = date_ob.getMinutes();
